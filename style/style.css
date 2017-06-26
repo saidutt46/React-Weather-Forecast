@@ -1,0 +1,25 @@
+/*body {
+  background: #1d1a1f !important;
+  color: white !important;
+}*/
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+/*tr:hover {
+  background: black !important;
+}*/
+
+.input-group {
+  margin: 20px 0px;
+}
+
+svg {
+  height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+  height: 200px;
+  width: 250px;
+}
